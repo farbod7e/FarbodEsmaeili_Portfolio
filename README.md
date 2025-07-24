@@ -14,7 +14,7 @@ A dynamic project management dashboard built in **Power BI**, demonstrating:
 - **Power Query** for data transformation
 - **Row-Level Security (RLS)** for user-specific access
 
-> 🔍 *File: Project_Management_Dashboard.pbit*
+> 🔍 Includes: 'Project_Management_Dashboard.pbix','PMs.xlsx', 'Project Management Dataset.csv'
 
 ---
 
@@ -24,7 +24,7 @@ A structured experimental design and analysis project implemented in **R**:
 - Linear modeling and ANOVA
 - Visualizations of interaction effects
 
-> 📄 Includes: `DoE_Report.pdf`, `doe_analysis.R`
+> 📄 Includes: `Design of Experiments.pdf`, `DOEProject.R`
 
 ---
 
@@ -34,7 +34,7 @@ A classification modeling project using **R**:
 - Model training and evaluation (Random Forest, Logistic Regression, etc.)
 - Performance metrics and visualization
 
-> 📦 Includes: `finalproject.rda`, `ml_project_code.R`
+> 📦 Includes: `finalproject.rda`, `MachineLearning_project.R`
 
 ---
 
@@ -44,7 +44,7 @@ Applied statistical programming using **R** with custom datasets:
 - Runtime performance analysis
 - Advanced statistical modeling and summary reporting
 
-> 📁 Includes: `cMlistDrugs.csv`, `runTime.csv`, `stat_comp_code.R`, `stat_comp_report.pdf`
+> 📁 Includes: `cMlistDrugs.RData`, `runTime.RData`, `R-Project.R`, `STAT_Project.pdf`
 
 ---
 
@@ -54,7 +54,7 @@ Time series analysis of cryptocurrency trends using **R**:
 - Decomposition, smoothing, forecasting
 - Visualizations and a slide presentation summarizing insights
 
-> 📁 Includes: `Book1.xlsx`, `crypto_timeseries.R`, `crypto_presentation.pptx`
+> 📁 Includes: `Book1.xlsx`, `RrCode.R`, `Presentation1.pptx`
 
 ---
 
@@ -67,15 +67,6 @@ Time series analysis of cryptocurrency trends using **R**:
 | **Machine Learning**      | Classification models, performance evaluation       |
 | **Time Series Analysis**  | Forecasting, decomposition, trend analysis          |
 | **Programming & Tools**   | R, RStudio, Power BI, Excel, Git                    |
-
----
-
-## 📬 Contact
-Feel free to connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 farbod@yourdomain.com (optional)
-- 🌐 Portfolio site (if available)
 
 ---
 
