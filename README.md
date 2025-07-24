@@ -6,7 +6,7 @@ Welcome to my portfolio repository showcasing a diverse range of projects in dat
 
 ## 🧩 Repository Structure
 
-### 📁 1. Power BI Sample Dashboard
+### 📁 1. BI Dashboard
 A dynamic project management dashboard built in **Power BI**, demonstrating:
 - **KPI reporting** (Budget vs Actual, Task Progress, Completion Rate)
 - **Data modeling** with fact and dimension tables (star schema)
