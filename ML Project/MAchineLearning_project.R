@@ -1,4 +1,4 @@
-load("/home/sahooein/projects/def-ubcxzh/sahooein/finalproject.rda")
+load("finalproject.rda")
 library(tree)
 library(caret)
 library(glmnet)
