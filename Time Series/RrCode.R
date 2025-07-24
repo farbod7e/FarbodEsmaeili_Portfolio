@@ -1,7 +1,7 @@
 ####read data####
 library(readxl)
 library(astsa)
-Book1 <- read_excel("~/Dropbox/Mac/Downloads/Dars/Fall 2023/STAT 554/TS Project/Book1.xlsx")
+Book1 <- read_excel("Book1.xlsx")
 #View(Book1)
 data = Book1$close
 
