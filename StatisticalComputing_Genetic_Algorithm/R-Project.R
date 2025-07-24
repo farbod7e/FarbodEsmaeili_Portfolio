@@ -222,8 +222,8 @@ for(eachDrug in 1:5){
 save(cMlistDrugs, file = "/home/farbodes/projects/def-ubcxzh/farbodes/cMlistDrugs.RData")
 save(runTime, file = "/home/farbodes/projects/def-ubcxzh/farbodes/runTime.RData")
 
-load("/Users/shaghayeghahooei/Dropbox/Mac/Downloads/Dars/Fall 2022/Stat Computing/project/cMlistDrugs.RData")
-load("/Users/shaghayeghahooei/Dropbox/Mac/Downloads/Dars/Fall 2022/Stat Computing/project/runTime.RData")
+load("cMlistDrugs.RData")
+load("runTime.RData")
 
 ##criteria
 nrep = 50
