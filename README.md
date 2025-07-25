@@ -14,7 +14,7 @@ A dynamic project management dashboard built in **Power BI**, demonstrating:
 - **Power Query** for data transformation
 - **Row-Level Security (RLS)** for user-specific access
 
-> 🔍 Includes: 'Project_Management_Dashboard.pbix','PMs.xlsx', 'Project Management Dataset.csv'
+> 📄 Includes: 'Project_Management_Dashboard.pbix','PMs.xlsx', 'Project Management Dataset.csv'
 
 ---
 
@@ -34,7 +34,7 @@ A classification modeling project using **R**:
 - Model training and evaluation (Random Forest, Logistic Regression, etc.)
 - Performance metrics and visualization
 
-> 📦 Includes: `finalproject.rda`, `MachineLearning_project.R`
+> 📄 Includes: `finalproject.rda`, `MachineLearning_project.R`
 
 ---
 
@@ -44,7 +44,7 @@ Applied statistical programming using **R** with custom datasets:
 - Runtime performance analysis
 - Advanced statistical modeling and summary reporting
 
-> 📁 Includes: `cMlistDrugs.RData`, `runTime.RData`, `R-Project.R`, `STAT_Project.pdf`
+> 📄 Includes: `cMlistDrugs.RData`, `runTime.RData`, `R-Project.R`, `STAT_Project.pdf`
 
 ---
 
@@ -54,7 +54,7 @@ Time series analysis of cryptocurrency trends using **R**:
 - Decomposition, smoothing, forecasting
 - Visualizations and a slide presentation summarizing insights
 
-> 📁 Includes: `Book1.xlsx`, `RrCode.R`, `Presentation1.pptx`
+> 📄 Includes: `Book1.xlsx`, `RrCode.R`, `Presentation1.pptx`
 
 ---
 
